@@ -1,0 +1,15 @@
+* {
+  margin: 4px;
+  padding: 10px;
+}
+
+.container {
+  display: grid;
+  place-items: center;
+}
+
+input[type="text"] {
+  border-radius: 10px;
+  width: 15px;
+  height: 15px;
+}
